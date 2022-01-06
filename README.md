@@ -6,3 +6,7 @@ A small scale implementation of [Conway's game of life](https://en.wikipedia.org
 # Usage
 
 The simulation can be stopped by pressing the Button 'P' on the Keyboard. Then a cell can be clicked to toggle its state. 
+
+# Disclaimer 
+
+I used this project to learn about C++ in general and especially about the interesting uses of preprocessor statements. The program works but it's not really expandable at the moment.
