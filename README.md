@@ -5,7 +5,7 @@ A small scale implementation of [Conway's game of life](https://en.wikipedia.org
 
 # Usage
 
-The simulation can be stopped by pressing the Button 'P' on the Keyboard. Then a cell can be clicked to toggle its state. 
+The simulation can be started/stopped by pressing the Button 'P' on the Keyboard. The state of a cell can be toggled by clicking on it.
 
 # Disclaimer 
 
